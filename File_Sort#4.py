@@ -2,6 +2,7 @@
 #Tested on Linux Mint 22.3, Linux 6.17.0-14 Python 3.10.12.
 #Should work on almost every computer with Python 3.10.12.
 #If you have any issues, please report them to my github:@HubGit-Master
+#Will add more Mac, and Windows capability within a week
 
 import os
 import shutil

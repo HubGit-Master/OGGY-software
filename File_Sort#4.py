@@ -1,7 +1,7 @@
 ﻿#Python Project, V1.4. OGGY SOFTWARE, 2026/2/21
 #Tested on Linux Mint 22.3, Linux 6.17.0-14 Python 3.10.12.
 #Should work on almost every computer with Python 3.10.12.
-#If you have any issues, please report them to my github:
+#If you have any issues, please report them to my github:@HubGit-Master
 
 import os
 import shutil
